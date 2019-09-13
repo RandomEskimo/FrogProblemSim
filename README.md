@@ -15,3 +15,5 @@
  6. Opt to output to a csv file, select a filename and choose to output to the screen as well.
  7. Let the simulation run.
  8. Analyse the results.
+ 
+ Licensed under GNU GPL v3.0, see LICENSE.md for more info
